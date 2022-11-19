@@ -1,0 +1,110 @@
+[2022-11-01 23:16:34] [ INFO ] [Main:17] La conexión está abierta
+[2022-11-01 23:16:34] [ INFO ] [OdontologoH2:87] Se actulizó correctamente
+[2022-11-01 23:17:38] [ INFO ] [Main:17] La conexión está abierta
+[2022-11-01 23:17:38] [ INFO ] [OdontologoH2:70] Estamos creando una tabla
+[2022-11-01 23:17:38] [ INFO ] [OdontologoH2:53]  Agregamos al odontologo con matricula 2364
+[2022-11-01 23:17:38] [ INFO ] [OdontologoH2:53]  Agregamos al odontologo con matricula 2365
+[2022-11-01 23:17:38] [ INFO ] [OdontologoH2:53]  Agregamos al odontologo con matricula 2366
+[2022-11-01 23:17:38] [ INFO ] [OdontologoH2:53]  Agregamos al odontologo con matricula 2367
+[2022-11-01 23:17:38] [ INFO ] [OdontologoH2:33] Odontologo{nombre='Ludwin', apellido='Misses', numeroMatricula=2364}
+[2022-11-01 23:17:38] [ INFO ] [OdontologoH2:33] Odontologo{nombre='Juan', apellido='Alberdi', numeroMatricula=2365}
+[2022-11-01 23:17:38] [ INFO ] [OdontologoH2:33] Odontologo{nombre='Milton', apellido='Friedman', numeroMatricula=2366}
+[2022-11-01 23:17:38] [ INFO ] [OdontologoH2:33] Odontologo{nombre='Friederich', apellido='Hayek', numeroMatricula=2367}
+[2022-11-01 23:17:38] [ INFO ] [Main:27] la conexion esta cerrada
+[2022-11-01 23:18:33] [ INFO ] [Main:17] La conexión está abierta
+[2022-11-01 23:18:33] [ INFO ] [OdontologoH2:87] Se actulizó correctamente
+[2022-11-01 23:27:05] [ INFO ] [OdontologoH2:87] Se actulizó correctamente
+[2022-11-03 00:35:49] [ ERROR] [OdontologoH2:92] Error al actualizar
+[2022-11-03 00:36:01] [ INFO ] [Main:17] La conexión está abierta
+[2022-11-03 00:36:01] [ INFO ] [OdontologoH2:70] Estamos creando una tabla
+[2022-11-03 00:36:01] [ INFO ] [OdontologoH2:53]  Agregamos al odontologo con matricula 2364
+[2022-11-03 00:36:01] [ INFO ] [OdontologoH2:53]  Agregamos al odontologo con matricula 2365
+[2022-11-03 00:36:01] [ INFO ] [OdontologoH2:53]  Agregamos al odontologo con matricula 2366
+[2022-11-03 00:36:01] [ INFO ] [OdontologoH2:53]  Agregamos al odontologo con matricula 2367
+[2022-11-03 00:36:01] [ INFO ] [OdontologoH2:33] Odontologo{nombre='Ludwin', apellido='Misses', numeroMatricula=2364}
+[2022-11-03 00:36:01] [ INFO ] [OdontologoH2:33] Odontologo{nombre='Juan', apellido='Alberdi', numeroMatricula=2365}
+[2022-11-03 00:36:01] [ INFO ] [OdontologoH2:33] Odontologo{nombre='Milton', apellido='Friedman', numeroMatricula=2366}
+[2022-11-03 00:36:01] [ INFO ] [OdontologoH2:33] Odontologo{nombre='Friederich', apellido='Hayek', numeroMatricula=2367}
+[2022-11-03 00:36:01] [ INFO ] [Main:27] la conexion esta cerrada
+[2022-11-03 00:41:04] [ INFO ] [Main:17] La conexión está abierta
+[2022-11-03 00:41:05] [ INFO ] [OdontologoH2:70] Estamos creando una tabla
+[2022-11-03 00:41:05] [ INFO ] [OdontologoH2:53]  Agregamos al odontologo con matricula 2364
+[2022-11-03 00:41:05] [ INFO ] [OdontologoH2:53]  Agregamos al odontologo con matricula 2365
+[2022-11-03 00:41:05] [ INFO ] [OdontologoH2:53]  Agregamos al odontologo con matricula 2366
+[2022-11-03 00:41:05] [ INFO ] [OdontologoH2:53]  Agregamos al odontologo con matricula 2367
+[2022-11-03 00:41:05] [ INFO ] [OdontologoH2:33] Odontologo{nombre='Ludwin', apellido='Misses', numeroMatricula=2364}
+[2022-11-03 00:41:05] [ INFO ] [OdontologoH2:33] Odontologo{nombre='Juan', apellido='Alberdi', numeroMatricula=2365}
+[2022-11-03 00:41:05] [ INFO ] [OdontologoH2:33] Odontologo{nombre='Milton', apellido='Friedman', numeroMatricula=2366}
+[2022-11-03 00:41:05] [ INFO ] [OdontologoH2:33] Odontologo{nombre='Friederich', apellido='Hayek', numeroMatricula=2367}
+[2022-11-03 00:41:05] [ INFO ] [Main:27] la conexion esta cerrada
+[2022-11-03 00:55:45] [ INFO ] [Main:18] La conexión está abierta
+[2022-11-03 00:55:46] [ INFO ] [OdontologoH2:70] Estamos creando una tabla
+[2022-11-03 00:55:46] [ INFO ] [OdontologoH2:53]  Agregamos al odontologo con matricula 2364
+[2022-11-03 00:55:46] [ INFO ] [OdontologoH2:53]  Agregamos al odontologo con matricula 2365
+[2022-11-03 00:55:46] [ INFO ] [OdontologoH2:53]  Agregamos al odontologo con matricula 2366
+[2022-11-03 00:55:46] [ INFO ] [OdontologoH2:53]  Agregamos al odontologo con matricula 2367
+[2022-11-03 00:55:46] [ INFO ] [OdontologoH2:33] Odontologo{nombre='Ludwin', apellido='Misses', numeroMatricula=2364}
+[2022-11-03 00:55:46] [ INFO ] [OdontologoH2:33] Odontologo{nombre='Juan', apellido='Alberdi', numeroMatricula=2365}
+[2022-11-03 00:55:46] [ INFO ] [OdontologoH2:33] Odontologo{nombre='Milton', apellido='Friedman', numeroMatricula=2366}
+[2022-11-03 00:55:46] [ INFO ] [OdontologoH2:33] Odontologo{nombre='Friederich', apellido='Hayek', numeroMatricula=2367}
+[2022-11-03 00:55:46] [ INFO ] [Main:33] la conexion esta cerrada
+[2022-11-03 00:59:28] [ INFO ] [OdontologoH2:33] Odontologo{nombre='Ludwin', apellido='Misses', numeroMatricula=2364}
+[2022-11-03 00:59:28] [ INFO ] [OdontologoH2:33] Odontologo{nombre='Juan', apellido='Alberdi', numeroMatricula=2365}
+[2022-11-03 00:59:28] [ INFO ] [OdontologoH2:33] Odontologo{nombre='Milton', apellido='Friedman', numeroMatricula=2366}
+[2022-11-03 00:59:28] [ INFO ] [OdontologoH2:33] Odontologo{nombre='Friederich', apellido='Hayek', numeroMatricula=2367}
+[2022-11-03 00:59:29] [ INFO ] [OdontologoH2:87] Se actulizó correctamente
+[2022-11-03 00:59:29] [ INFO ] [OdontologoH2:53]  Agregamos al odontologo con matricula 2368
+[2022-11-03 01:07:02] [ ERROR] [OdontologoH2:94] Error al actualizar
+[2022-11-03 01:07:02] [ ERROR] [OdontologoH2:57]  Error en agregar un adontologo Table "ODONTOLOGO" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGO (NUM_MATRICULA, NOMBRE, APELLIDO) VALUES (?,?,?) [42104-214]
+[2022-11-03 01:07:17] [ INFO ] [Main:18] La conexión está abierta
+[2022-11-03 01:07:17] [ INFO ] [OdontologoH2:71] Estamos creando una tabla
+[2022-11-03 01:07:17] [ INFO ] [OdontologoH2:54]  Agregamos al odontologo con matricula 2364
+[2022-11-03 01:07:17] [ INFO ] [OdontologoH2:54]  Agregamos al odontologo con matricula 2365
+[2022-11-03 01:07:17] [ INFO ] [OdontologoH2:54]  Agregamos al odontologo con matricula 2366
+[2022-11-03 01:07:17] [ INFO ] [OdontologoH2:54]  Agregamos al odontologo con matricula 2367
+[2022-11-03 01:07:17] [ INFO ] [OdontologoH2:34] Odontologo{nombre='Ludwin', apellido='Misses', numeroMatricula=2364}
+[2022-11-03 01:07:17] [ INFO ] [OdontologoH2:34] Odontologo{nombre='Juan', apellido='Alberdi', numeroMatricula=2365}
+[2022-11-03 01:07:17] [ INFO ] [OdontologoH2:34] Odontologo{nombre='Milton', apellido='Friedman', numeroMatricula=2366}
+[2022-11-03 01:07:17] [ INFO ] [OdontologoH2:34] Odontologo{nombre='Friederich', apellido='Hayek', numeroMatricula=2367}
+[2022-11-03 01:07:17] [ INFO ] [Main:33] la conexion esta cerrada
+[2022-11-03 01:08:00] [ INFO ] [OdontologoH2:54]  Agregamos al odontologo con matricula 2368
+[2022-11-03 01:08:11] [ INFO ] [OdontologoH2:34] Odontologo{nombre='Ludwin', apellido='Misses', numeroMatricula=2364}
+[2022-11-03 01:08:11] [ INFO ] [OdontologoH2:34] Odontologo{nombre='Juan', apellido='Alberdi', numeroMatricula=2365}
+[2022-11-03 01:08:11] [ INFO ] [OdontologoH2:34] Odontologo{nombre='Milton', apellido='Friedman', numeroMatricula=2366}
+[2022-11-03 01:08:11] [ INFO ] [OdontologoH2:34] Odontologo{nombre='Friederich', apellido='Hayek', numeroMatricula=2367}
+[2022-11-03 01:08:11] [ INFO ] [OdontologoH2:34] Odontologo{nombre='Roman', apellido='Leiva', numeroMatricula=2368}
+[2022-11-03 01:08:29] [ INFO ] [Main:18] La conexión está abierta
+[2022-11-03 01:08:29] [ INFO ] [OdontologoH2:71] Estamos creando una tabla
+[2022-11-03 01:08:29] [ INFO ] [OdontologoH2:54]  Agregamos al odontologo con matricula 2364
+[2022-11-03 01:08:29] [ INFO ] [OdontologoH2:54]  Agregamos al odontologo con matricula 2365
+[2022-11-03 01:08:29] [ INFO ] [OdontologoH2:54]  Agregamos al odontologo con matricula 2366
+[2022-11-03 01:08:29] [ INFO ] [OdontologoH2:54]  Agregamos al odontologo con matricula 2367
+[2022-11-03 01:08:29] [ INFO ] [OdontologoH2:34] Odontologo{nombre='Ludwin', apellido='Misses', numeroMatricula=2364}
+[2022-11-03 01:08:29] [ INFO ] [OdontologoH2:34] Odontologo{nombre='Juan', apellido='Alberdi', numeroMatricula=2365}
+[2022-11-03 01:08:29] [ INFO ] [OdontologoH2:34] Odontologo{nombre='Milton', apellido='Friedman', numeroMatricula=2366}
+[2022-11-03 01:08:29] [ INFO ] [OdontologoH2:34] Odontologo{nombre='Friederich', apellido='Hayek', numeroMatricula=2367}
+[2022-11-03 01:08:29] [ INFO ] [Main:33] la conexion esta cerrada
+[2022-11-03 01:08:40] [ INFO ] [OdontologoH2:34] Odontologo{nombre='Ludwin', apellido='Misses', numeroMatricula=2364}
+[2022-11-03 01:08:40] [ INFO ] [OdontologoH2:34] Odontologo{nombre='Juan', apellido='Alberdi', numeroMatricula=2365}
+[2022-11-03 01:08:40] [ INFO ] [OdontologoH2:34] Odontologo{nombre='Milton', apellido='Friedman', numeroMatricula=2366}
+[2022-11-03 01:08:40] [ INFO ] [OdontologoH2:34] Odontologo{nombre='Friederich', apellido='Hayek', numeroMatricula=2367}
+[2022-11-03 01:08:40] [ INFO ] [OdontologoH2:89] Se actulizó correctamente
+[2022-11-03 01:08:40] [ INFO ] [OdontologoH2:54]  Agregamos al odontologo con matricula 2368
+[2022-11-03 03:25:00] [ INFO ] [Main:18] La conexión está abierta
+[2022-11-03 03:25:01] [ INFO ] [OdontologoH2:71] Estamos creando una tabla
+[2022-11-03 03:25:01] [ INFO ] [OdontologoH2:54]  Agregamos al odontologo con matricula 2364
+[2022-11-03 03:25:01] [ INFO ] [OdontologoH2:54]  Agregamos al odontologo con matricula 2365
+[2022-11-03 03:25:01] [ INFO ] [OdontologoH2:54]  Agregamos al odontologo con matricula 2366
+[2022-11-03 03:25:01] [ INFO ] [OdontologoH2:54]  Agregamos al odontologo con matricula 2367
+[2022-11-03 03:25:01] [ INFO ] [OdontologoH2:34] Odontologo{nombre='Ludwin', apellido='Misses', numeroMatricula=2364}
+[2022-11-03 03:25:01] [ INFO ] [OdontologoH2:34] Odontologo{nombre='Juan', apellido='Alberdi', numeroMatricula=2365}
+[2022-11-03 03:25:01] [ INFO ] [OdontologoH2:34] Odontologo{nombre='Milton', apellido='Friedman', numeroMatricula=2366}
+[2022-11-03 03:25:01] [ INFO ] [OdontologoH2:34] Odontologo{nombre='Friederich', apellido='Hayek', numeroMatricula=2367}
+[2022-11-03 03:25:01] [ INFO ] [Main:33] la conexion esta cerrada
+[2022-11-03 03:26:37] [ INFO ] [OdontologoH2:34] Odontologo{nombre='Ludwin', apellido='Misses', numeroMatricula=2364}
+[2022-11-03 03:26:37] [ INFO ] [OdontologoH2:34] Odontologo{nombre='Juan', apellido='Alberdi', numeroMatricula=2365}
+[2022-11-03 03:26:37] [ INFO ] [OdontologoH2:34] Odontologo{nombre='Milton', apellido='Friedman', numeroMatricula=2366}
+[2022-11-03 03:26:37] [ INFO ] [OdontologoH2:34] Odontologo{nombre='Friederich', apellido='Hayek', numeroMatricula=2367}
+[2022-11-03 03:26:37] [ INFO ] [OdontologoH2:89] Se actulizó correctamente
+[2022-11-03 03:26:37] [ INFO ] [OdontologoH2:54]  Agregamos al odontologo con matricula 2368
